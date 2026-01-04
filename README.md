@@ -1,6 +1,6 @@
 # 多智能体科学知识图谱修复系统
 
-基于论文OmniScientist: Toward a Co-evolving Ecosystem of Human and AI Scientists实现的多智能体知识图谱精炼系统。
+基于论文OmniScientist: Toward a Co-evolving Ecosystem of Human and AI Scientists实现的多智能体知识图谱修复系统。
 
 ## 系统架构
 
@@ -8,7 +8,7 @@
 
 1. **阶段 0 - 数据收集**：从顶级 AI 会议收集论文、参考文献和 PDF 全文
 2. **阶段 1 - 初始图谱构建**：将 OpenAlex 元数据映射到 Neo4j 图谱
-3. **阶段 2 - 多智能体修复**：使用 5 个智能体协作精炼图谱
+3. **阶段 2 - 多智能体修复**：使用 5 个智能体协作修复图谱
 
 ### 智能体流程
 
